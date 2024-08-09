@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.container {
+    border: 2px solid black;
+    background-color: #9a9a9a;
+    height: 40vh;
+    width: 40vw;
+    text-align: center;
+}
+
+#button {
+    padding: 2px 15px;
+    font-size: large;
+    border-radius: 5px;
+}
+
+#result {
+    margin-top: 15px;
+    font-size: 30px;
+}
