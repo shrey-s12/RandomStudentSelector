@@ -20,6 +20,7 @@ body {
 }
 
 #result {
+    white-space: pre;
     margin-top: 15px;
     font-size: 30px;
 }
